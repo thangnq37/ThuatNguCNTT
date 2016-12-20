@@ -1,3 +1,6 @@
 khaoi lang bam
+<<<<<<< HEAD
 thang dang hoc
 khoai lang bam 2s
+=======
+>>>>>>> parent of d10e97f... Update thang.txt
