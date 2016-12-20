@@ -1,0 +1,92 @@
+*{
+	margin:auto;
+	padding: auto;
+}
+
+
+
+
+.header {
+	background-color: #0099CC;
+	font-weight: bold;
+	margin-bottom: 5px;
+	margin: 0;
+}
+
+.area_combobox{
+
+}
+
+.nav-footer {
+	text-align: center;
+	margin: auto;
+	background-color:  #0099CC;
+	color: white;
+}
+.nav-footer a{
+	background-color:  #0099CC;
+	color: blue;
+}
+
+
+.navbar-menu {
+	
+}
+.navbar-menu a{
+	color:white;
+
+}
+.navbar-menu li a:hover, .navbar-menu li a:visited {
+	background-color: #0d47a1 ;
+	color:white;
+}
+
+
+input[type=textFind] {
+	resize: none;
+    width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input[type=textFind]:focus {
+	resize: none;
+    border: 3px solid #0099CC;
+}
+
+
+input[type=textseached] {
+	background-color: lightgray;
+    width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid lightgray;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+
+input[type=textseached]:focus {
+    border: 3px solid #0099CC;
+}
+
+.area_text {
+	/*margin:auto;*/
+}
+
+
+
+
+
+
+
+
+
+
